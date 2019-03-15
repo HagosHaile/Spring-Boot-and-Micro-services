@@ -1210,3 +1210,42 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 !MESSAGE Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-03-15 00:06:51.330
 !MESSAGE Missing antlr:antlr:jar:javadoc:2.7.7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.345
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DnpPvpEP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.346
+!MESSAGE subscribing to classpath changes: sts4.classpath.DnpPvpEP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.348
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.348
+!MESSAGE subsribers = [sts4.classpath.DnpPvpEP]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.349
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.350
+!MESSAGE project restful-web-services ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.351
+!MESSAGE Preparing classpath changed notification restful-web-services
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.351
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.352
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.352
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DnpPvpEP => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.363
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:17.363
+!MESSAGE executing callback sts4.classpath.DnpPvpEP restful-web-services false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-15 00:31:18.419
+!MESSAGE executing callback sts4.classpath.DnpPvpEP SUCCESS [done]
