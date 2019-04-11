@@ -1,5 +1,0 @@
-package com.hagos.rest.webservices.restfulwebservices.user;
-
-public class UserExistsException extends Exception {
-
-}

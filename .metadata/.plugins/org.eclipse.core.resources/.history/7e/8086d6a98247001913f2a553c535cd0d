@@ -1,8 +1,0 @@
-package com.hagos.rest.webservices.restfulwebservices;
-
-public class HelloWorld {
-	
-	//GET
-	//URI /hello-world
-
-}

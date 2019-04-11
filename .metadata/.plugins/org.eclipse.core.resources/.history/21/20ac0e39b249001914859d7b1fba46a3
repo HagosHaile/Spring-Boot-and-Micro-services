@@ -1,5 +1,0 @@
-package com.hagos.rest.webservices.restfulwebservices.exception;
-
-public class ExceptionResponse {
-
-}
