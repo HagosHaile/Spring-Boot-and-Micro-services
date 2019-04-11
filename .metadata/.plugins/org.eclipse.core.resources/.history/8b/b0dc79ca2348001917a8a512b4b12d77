@@ -1,0 +1,21 @@
+package com.hagos.rest.webservices.restfulwebservices.user;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class UserResourceController {
+	
+	@Autowired
+	private UserDaoService userDao;
+	//retrieve all users
+	public List<User> findAll(){
+		return userDao.findAll();
+	}
+	
+	
+	//retrieve user
+
+}

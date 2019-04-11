@@ -1,0 +1,11 @@
+package com.hagos.rest.webservices.restfulwebservices.user;
+
+public class UserExistsException extends Exception {
+
+	public UserExistsException(String message) {
+		super(message);
+	}
+	
+	
+
+}

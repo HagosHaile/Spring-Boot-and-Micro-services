@@ -1,0 +1,5 @@
+package com.hagos.rest.webservices.restfulwebservices.user;
+
+public class UserResourceController {
+
+}

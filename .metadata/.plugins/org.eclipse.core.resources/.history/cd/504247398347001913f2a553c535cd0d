@@ -1,0 +1,18 @@
+package com.hagos.rest.webservices.restfulwebservices;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HelloWorld {
+	
+	//GET
+	//URI /hello-world
+	//returns text
+	@GetMapping(Path = "/hello-world")
+	public String helloWorld() {
+		
+		return "hello world";
+	}
+
+}
